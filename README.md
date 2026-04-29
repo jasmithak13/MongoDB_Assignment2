@@ -1,15 +1,4 @@
 # MongoDB_Assignment2
-# MongoDB Advanced Assignment – Transactions, Validation & Aggregation
-
-## 👤 Student Details
-- **Name:** Your Name
-- **Roll No:** Your Roll Number
-- **Class:** Your Class
-- **Subject:** Database Management System (DBMS)
-- **College:** Your College Name
-- **Date:** April 2026
-
----
 
 ## 📚 About This Assignment
 This assignment covers advanced MongoDB concepts including Transactions,
@@ -28,8 +17,6 @@ mongodb-advanced-assignment/
 ├── problem5_ecommerce_analytics.js
 └── README.md
 
----
-
 ## 🛠️ Advanced Topics Covered
 - MongoDB Transactions (startTransaction, commitTransaction, abortTransaction)
 - Schema Validation using $jsonSchema
@@ -38,8 +25,6 @@ mongodb-advanced-assignment/
 - mongodump and mongorestore for Backup & Restore
 - Aggregation Pipeline ($match, $group, $project, $sort, $limit)
 - Atomic Operations using $set and $inc
-
----
 
 ## ⚙️ How to Run
 
